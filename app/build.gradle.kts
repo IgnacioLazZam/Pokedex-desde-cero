@@ -42,11 +42,11 @@ android {
 }
 
 dependencies {
-    implementation("com.squareup.retrofit2:retrofit:2.9.0")
-    implementation("com.squareup.retrofit2:converter-gson:2.9.0")
-    implementation("com.google.dagger:hilt-android:2.47")
+    implementation("com.squareup.retrofit2:retrofit:2.11.0")
+    implementation("com.squareup.retrofit2:converter-gson:2.11.0")
+    implementation("com.google.dagger:hilt-android:2.51.1")
     implementation(libs.androidx.navigation.fragment)
-    kapt("com.google.dagger:hilt-android-compiler:2.47")
+    kapt("com.google.dagger:hilt-android-compiler:2.51.1")
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
