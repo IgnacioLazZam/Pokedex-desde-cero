@@ -1,5 +1,5 @@
+package com.example.pokedex_desde_cero.ui
 
-import PokemonListAdapter
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
@@ -8,8 +8,6 @@ import android.view.ViewGroup
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope
 import com.example.pokedex_desde_cero.databinding.FragmentPokemonListBinding
-import com.example.pokedex_desde_cero.ui.PokemonListUiState
-import com.example.pokedex_desde_cero.ui.PokemonListViewModel
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.launch
 

@@ -1,6 +1,6 @@
+package com.example.pokedex_desde_cero.core
 
-import com.example.pokedex_desde_cero.core.Pokemon
-import com.example.pokedex_desde_cero.core.PokemonRepositoryInterface
+
 import com.example.pokedex_desde_cero.core.remote.PokemonRemoteRepositoryInterface
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

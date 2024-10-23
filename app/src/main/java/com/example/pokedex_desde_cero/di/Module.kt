@@ -1,6 +1,7 @@
 package com.example.pokedex_desde_cero.di
 
-import DefaultPokemonRepository
+
+import com.example.pokedex_desde_cero.core.DefaultPokemonRepository
 import com.example.pokedex_desde_cero.core.PokemonRepositoryInterface
 import com.example.pokedex_desde_cero.core.remote.PokeApiService
 import com.example.pokedex_desde_cero.core.remote.PokemonRemoteRepository

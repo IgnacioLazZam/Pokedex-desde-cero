@@ -1,7 +1,6 @@
 package com.example.pokedex_desde_cero.core
 
 import kotlinx.coroutines.flow.StateFlow
-import retrofit2.Response
 
 interface PokemonRepositoryInterface {
 

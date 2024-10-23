@@ -1,3 +1,4 @@
+package com.example.pokedex_desde_cero.ui
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
